@@ -1,5 +1,5 @@
-import nikImg from './assets/nik.png';
-import pianoImg from './assets/piano.png';
+import nikImg from '../assets/nik.png';
+import pianoImg from '../assets/piano.png';
 
 export default function Content() {
   return (
