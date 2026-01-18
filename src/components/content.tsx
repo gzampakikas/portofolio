@@ -1,3 +1,6 @@
+import nikImg from './assets/nik.png';
+import pianoImg from './assets/piano.png';
+
 export default function Content() {
   return (
     <main className="grow bg-gray-50">
@@ -40,7 +43,7 @@ export default function Content() {
                 <h3 className="text-2xl font-semibold text-emerald-600 mb-2">Mikrogeumata Nik</h3>
                 
                 <img
-                    src="/nik.png"
+                    src={nikImg}
                     alt="Mikrogeumata Nik Screenshot"
                     className="mb-4 rounded shadow"
                 />
@@ -62,7 +65,7 @@ export default function Content() {
                 <h3 className="text-2xl font-semibold text-emerald-600 mb-2">Piano 61 Keys App</h3>
                 
                 <img
-                    src="/piano.png"
+                    src={pianoImg}
                     alt="Piano 61 Keys Screenshot"
                     className="mb-4 rounded shadow"
                 />
