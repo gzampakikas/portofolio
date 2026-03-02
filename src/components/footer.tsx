@@ -3,7 +3,7 @@ export default function Footer() {
     const currentYear: number = new Date().getFullYear();
     return (
         <footer className="w-full bg-slate-950 text-emerald-400 py-10 text-center text-sm">
-            <p>© {currentYear} George Zampakikas. Built with React & Tailwind CSS.</p>
+            <p>© {currentYear} Georgios Zampakikas. Built with React & Tailwind CSS.</p>
         </footer>
     );
 }

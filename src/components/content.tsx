@@ -53,7 +53,7 @@ export default function Content() {
                 <p className="text-gray-500 mb-4">Tech: React, CSS</p>
                 
                 <div className="flex gap-4">
-                    <a href="https://github.com/webspider02/mikrogeumata_nik/tree/dev" target="_blank" className="text-emerald-600 hover:underline">
+                    <a href="https://github.com/gzampakikas/mikrogeumata_nik/tree/dev" target="_blank" className="text-emerald-600 hover:underline">
                     GitHub
                     </a>
                 </div>
@@ -73,7 +73,7 @@ export default function Content() {
                 <p className="text-gray-500 mb-4">Tech: Next.js, Tailwind CSS</p>
                 
                 <div className="flex gap-4">
-                    <a href="https://github.com/webspider02/piano-61-keys" target="_blank" className="text-emerald-600 hover:underline">
+                    <a href="https://github.com/gzampakikas/piano-61-keys" target="_blank" className="text-emerald-600 hover:underline">
                     GitHub
                     </a>
                 </div>
@@ -131,19 +131,19 @@ export default function Content() {
                     rel="noopener noreferrer"
                     className="text-emerald-600 hover:underline"
                 >
-                    github.com/webspider02
+                    github.com/gzampakikas
                 </a>
             </p>
 
             <p>
                 <span className="text-gray-500">LinkedIn:</span>{" "}
                 <a
-                    href="https://www.linkedin.com/in/george-zampakikas-aa208b321/"
+                    href="https://www.linkedin.com/in/georgios-zampakikas-aa208b321/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-emerald-600 hover:underline"
                 >
-                    linkedin.com/in/george-zampakikas-aa208b321
+                    linkedin.com/in/georgios-zampakikas-aa208b321
                 </a>
             </p>
         </div>

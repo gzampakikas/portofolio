@@ -16,7 +16,7 @@ export default function Header() {
                 className="text-emerald-400 semi-bold select-none text-lg text-center"
                 href="#home"
             >
-                <h1 className="text-5xl font-extrabold tracking-tight text-emerald-600">George Zampakikas</h1>
+                <h1 className="text-5xl font-extrabold tracking-tight text-emerald-600">Georgios Zampakikas</h1>
             </a>
 
             {/* Right Section */}
